@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../django_crud_api/.idea/django_crud_api.iml" filepath="$PROJECT_DIR$/../django_crud_api/.idea/django_crud_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mytest_program.iml" filepath="$PROJECT_DIR$/.idea/mytest_program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/python_work.iml" filepath="$PROJECT_DIR$/../.idea/python_work.iml" />
+    </modules>
+  </component>
+</project>
